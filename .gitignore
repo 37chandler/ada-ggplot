@@ -1,6 +1,8 @@
 *.txt
 *.zip
 ggplot_exercises_solution.r
+ggplot_exercises.r
+ggplot_exercises_complete.Rmd
 
 # History files
 .Rhistory
